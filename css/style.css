@@ -1,0 +1,50 @@
+/* Header */
+.header_container {
+    width: 1336px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+.header_div {
+    text-align: center;
+}
+.header_mainH {
+    font-size: 54px;
+    margin: 4px 0 16px 0;
+}
+.header_par _{
+    font-size: 20px;
+}
+.header_div2 {
+    width: 760px;
+    margin: 0 auto;
+}
+
+/* main */
+
+.main_container {
+    width: 1336px;
+    display: flex;
+    margin: 0 auto;
+}
+.div {
+    width: 100%;
+}
+.main_div {
+    width: 310px;
+    height: 430px;
+}
+.text_div {
+    width: 278px;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+.header_text {
+    font-size: 18px;
+}
+.text_par {
+    font-size: 14px;
+}
+.active {
+    margin-top: 4px;
+    margin-bottom: 8px;
+}
