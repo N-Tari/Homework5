@@ -13,6 +13,7 @@
 }
 .header_par _{
     font-size: 20px;
+    color: #5F6980;
 }
 .header_div2 {
     width: 760px;
@@ -47,6 +48,7 @@
 }
 .text_par {
     font-size: 14px;
+    color: #5F6980;
 }
 .active {
     margin-top: 4px;
@@ -84,6 +86,7 @@
 .footer_par {
     margin-top: 32px;
     margin-bottom: 28px;
+    color: #535353;
 }
 .footer_h {
     margin-bottom: 78px;
@@ -91,6 +94,7 @@
 }
 .nav_li {
     color: #535353;
+    
 }
 .li {
     margin-bottom: 15px;
